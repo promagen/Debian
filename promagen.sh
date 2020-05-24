@@ -12,6 +12,6 @@ if ! [ -x "$(command -v git)" ]; then
   exit 1
 fi
 
-git clone https://github.com/apicra/promagen-debian.git promagen-debian
+git clone git://github.com/apicra/promagen-debian.git promagen-debian
 cd promagen-debian
 sh download.sh

@@ -8,7 +8,7 @@ Environments fro Windows, Linux, Docker, GItlab
 Środowisko do uruchamiania Aplikacji Promagen
 
 Korzysta ze skryptów do instalacji i zarzadzania uslguami porpzez skrypty basha: apicra.com
-+ https://github.com/apicra/debian-python
++ git://github.com/apicra/debian-python
 
 
 ## Environment
@@ -64,7 +64,7 @@ From Console
 
 to Browser github
 
-    https://github.com/settings/ssh/new
+    git://github.com/settings/ssh/new
 
 to Browser gitlab
 
