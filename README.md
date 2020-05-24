@@ -13,6 +13,9 @@ Korzysta ze skryptów do instalacji i zarzadzania uslguami porpzez skrypty basha
 
 ## Environment
 
+### production 
+
+
 ### Local
 
 linux debian
