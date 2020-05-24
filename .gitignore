@@ -1,0 +1,14 @@
+/.idea/
+/env/
+/src/
+/python/
+/pip/
+/nginx/
+/gunicorn/
+/debian/
+/promagen/
+/node/
+/php/
+# Logs
+logs
+*.log
