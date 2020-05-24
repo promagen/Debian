@@ -1,5 +1,5 @@
 #!/bin/bash
-#sh promagen/stop.sh
+sh promagen/stop.sh
 sh promagen/start.sh
 #python3 -m venv env
 #virtualenv -p python3 env
